@@ -115,6 +115,7 @@ if not (os.path.exists( storyPathHeader ) or os.path.exists(storyPathMain)) :
 //
 //  Created by Simon Coulter
 //
+#import "StoryBoardManager.h"
 
 @implementation StoryBoardManager
 
