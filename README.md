@@ -70,7 +70,8 @@ Example
 ```sh
 /usr/bin/python scripts/StoryboardDefGenerator.py -d "Source"
 ```
-   
+  
+Alternatively you can add a new build aggregator target and add put in a runscript in that. This allows you to generate the files whenever you want, i.e. after you edit a storyboard. 
 
 
 More Info   
